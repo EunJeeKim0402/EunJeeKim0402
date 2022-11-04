@@ -1,4 +1,5 @@
-항상 발전하려고 노력하는 개발자 김은지입니다.
+
+https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@new_wisdom
 
 <!--
 **EunJeeKim0402/EunJeeKim0402** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
