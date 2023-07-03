@@ -2,7 +2,7 @@
   <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white"/>
 </a>  
 <a href="https://blog.naver.com/adserina">
-  <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Naver-000000?style=flat-square&logo=notion&logoColor=green"/>
 </a>  
 
 <!--
