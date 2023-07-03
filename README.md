@@ -1,6 +1,9 @@
 <a href="https://www.notion.so/4b55cc0e9cea42edb8b728c9ae5e202f">
   <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white"/>
 </a>  
+<a href="https://blog.naver.com/adserina">
+  <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white"/>
+</a>  
 
 <!--
 **EunJeeKim0402/EunJeeKim0402** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
